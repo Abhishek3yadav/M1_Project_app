@@ -4,6 +4,7 @@
  feature of the project
 
  ## low level of requiremet
- * how each feature are implemented 
+ * how each feature are implemented   
  * linkage high level to low level
+ * others
  
