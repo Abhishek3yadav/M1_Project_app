@@ -1,9 +1,10 @@
-# discription 
-discribe about the project
-# Requirement 
+# requirement 
 
-## High level Requirement
-feature of my my  project
+## high level requirement
+ feature of the project
 
-
-## low level requirement
+ ## low level of requiremet
+ * how each feature are implemented   
+ * linkage high level to low level
+ * others
+ 

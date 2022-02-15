@@ -1,7 +1,8 @@
-# Architecture
+# Architecture 
 
-## Design
-* structural
+## Design 
+* strutural 
 * behavioural
-    * Flowchart
+    * flowchart
     * use case diagram 
+    
