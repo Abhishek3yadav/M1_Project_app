@@ -4,3 +4,7 @@
 |HL02     | dishes available in the restuarant       |
 |HL03     | offers or discount available             |
 |HL04     | opening and closing time of resturant    |
+
+
+ADVANTAGE = It can be easily used  
+            Easy and faster access
