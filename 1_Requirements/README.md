@@ -7,5 +7,5 @@
 
 
 ADVANTAGE =
-                  | It can be easily used  |
-                  | Easy and faster access |
+                  1. It can be easily used  
+                  2. Easy and faster access 
