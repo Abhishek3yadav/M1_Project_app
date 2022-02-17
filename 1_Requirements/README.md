@@ -6,6 +6,6 @@
 |HL04     | opening and closing time of resturant    |
 
 
-ADVANTAGE 
+ADVANTAGE =
             It can be easily used  
             Easy and faster access
