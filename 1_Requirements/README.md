@@ -1,3 +1,15 @@
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to add his discount | Techincal | IMPLEMENTED | 
+| HR02 | User shall be able to add his expenses | Techincal |  IMPLEMENTED  |
+| HR03 | User shall be able to view his total saving | Techincal |  IMPLEMENTED  |
+| HR04 | User shall be able to add varied number of items ordered | Techincal |  IMPLEMENTED  |
+| HR05 | User shall be able to add customer  by his name | Techincal |  IMPLEMENTED  |
+| HR06 | User shall be able to view his total expenses| Techincal |  IMPLEMENTED  |
+
+## Low Level Requirement
 |Test ID  |    Description  |  
 -------------|-----------------------------------
 |HL01     | menu of the resturant                    | 
