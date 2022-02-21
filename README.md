@@ -1,10 +1,10 @@
-# M1_Project_app
+# M1_menu__app
 Doing project on application base.
 
 
 ## Milestone -1
- * folder structure
- * idea
  * Requirement
- * Design
+ * Architecture 
+ * implemntation
  * Test plan
+ 
