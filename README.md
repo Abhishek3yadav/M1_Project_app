@@ -14,3 +14,5 @@ Doing project on application base.
  
  
  ![.](https://api.codiga.io/project/31445/score/svg)
+ 
+ ![.](https://api.codiga.io/project/31445/status/svg)
