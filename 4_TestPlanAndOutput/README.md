@@ -20,4 +20,5 @@
 |L 09|discount|float value|Int output|Int output|Unit test|
 |L_10|discount|Float value|Termination|Termination|Unit test|
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98915922/156413764-980e8bea-febc-4be5-9014-1bba5df28e81.png">
 
