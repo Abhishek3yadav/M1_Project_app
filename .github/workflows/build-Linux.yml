@@ -13,6 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make run -C 3_Implementation
-      run: ./configure
+    - name: menu 
+
+      run: make run -C 3_Implementation
    
