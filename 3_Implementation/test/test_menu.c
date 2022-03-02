@@ -17,7 +17,7 @@ float getDiscount(float total, float discountPercent)
 // Write all the function defined in the program.
 
 void test_getDiscount();
-void test_getDiscountFail();
+void test_getDiscountNotEqual();
 
 /* Required by the unity test framework */
 
@@ -41,7 +41,7 @@ int main()
     /* Means write the fucntion name for testing */
 
     RUN_TEST(test_getDiscount);
-    RUN_TEST(test_getDiscountFail);
+    RUN_TEST(test_getDiscountNotEqual);
 
     /* Close the Unity Test Framework */
     return UNITY_END();
@@ -59,11 +59,11 @@ void test_getDiscount()
     TEST_ASSERT_EQUAL(discount, expectedAfterDiscount);
 }
 
-void test_getDiscountFail()
+void test_getDiscountNotEqual()
 {
     float total = 100;
     float discountPercent = 10;
     float discount = getDiscount(total, discountPercent);
     float expectedAfterDiscount = 80.0;
-    TEST_ASSERT_EQUAL(discount, expectedAfterDiscount);
+    TEST_ASSERT_FALSE(discount == expectedAfterDiscount);
 }
