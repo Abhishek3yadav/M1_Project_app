@@ -21,4 +21,5 @@
 |L_10|discount|Float value|Termination|Termination|Unit test|
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98915922/156413764-980e8bea-febc-4be5-9014-1bba5df28e81.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98915922/156414084-9aa0872c-caea-44fc-962e-fc07054bd998.png">
 
