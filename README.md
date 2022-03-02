@@ -17,3 +17,4 @@ Doing project on application base.
  
  ![.](https://api.codiga.io/project/31445/status/svg)
 [![cppcheck-action](https://github.com/Abhishek3yadav/M1_Project_app/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Abhishek3yadav/M1_Project_app/actions/workflows/c-cpp.yml)
+[![build-Linux](https://github.com/Abhishek3yadav/M1_Project_app/actions/workflows/build-Linux.yml/badge.svg?branch=main)](https://github.com/Abhishek3yadav/M1_Project_app/actions/workflows/build-Linux.yml)

@@ -1,4 +1,4 @@
-name: build-Linux
+name: unity-testing
 
 on:
   push:
@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: menu 
+    - name: Make Run
       run: make
-   
+    - name: Run Test Cases
+      run: ./test.out
+ 
