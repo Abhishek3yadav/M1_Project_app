@@ -15,5 +15,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: menu 
 
-      run: make run -C 3_Implementation
+      run: cd 3_Implementation && make -k
    
