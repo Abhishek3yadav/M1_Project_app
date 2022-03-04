@@ -1,4 +1,4 @@
-# M1_menu__app
+# M1_menu__menubilling
 IN this project i have made a menu card and billing system consist of customer names and number of item he bought from the resturant and it will also calculate the total 
 cost of the items he was ordered icluding discount and gst applied on each items .
  this will help to understand the bill of the customer and also the saving . it will also make clear the owner of resturant total saving and earning on the dailly bases.
